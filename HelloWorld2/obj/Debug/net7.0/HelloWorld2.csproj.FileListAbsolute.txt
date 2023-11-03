@@ -1,0 +1,15 @@
+C:\Users\hogue\source\repos\Technical Assignment 2\Technical Assignment 3\TA4\TA5\HelloWorld2\bin\Debug\net7.0\HelloWorld2.exe
+C:\Users\hogue\source\repos\Technical Assignment 2\Technical Assignment 3\TA4\TA5\HelloWorld2\bin\Debug\net7.0\HelloWorld2.deps.json
+C:\Users\hogue\source\repos\Technical Assignment 2\Technical Assignment 3\TA4\TA5\HelloWorld2\bin\Debug\net7.0\HelloWorld2.runtimeconfig.json
+C:\Users\hogue\source\repos\Technical Assignment 2\Technical Assignment 3\TA4\TA5\HelloWorld2\bin\Debug\net7.0\HelloWorld2.dll
+C:\Users\hogue\source\repos\Technical Assignment 2\Technical Assignment 3\TA4\TA5\HelloWorld2\bin\Debug\net7.0\HelloWorld2.pdb
+C:\Users\hogue\source\repos\Technical Assignment 2\Technical Assignment 3\TA4\TA5\HelloWorld2\obj\Debug\net7.0\HelloWorld2.csproj.AssemblyReference.cache
+C:\Users\hogue\source\repos\Technical Assignment 2\Technical Assignment 3\TA4\TA5\HelloWorld2\obj\Debug\net7.0\HelloWorld2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hogue\source\repos\Technical Assignment 2\Technical Assignment 3\TA4\TA5\HelloWorld2\obj\Debug\net7.0\HelloWorld2.AssemblyInfoInputs.cache
+C:\Users\hogue\source\repos\Technical Assignment 2\Technical Assignment 3\TA4\TA5\HelloWorld2\obj\Debug\net7.0\HelloWorld2.AssemblyInfo.cs
+C:\Users\hogue\source\repos\Technical Assignment 2\Technical Assignment 3\TA4\TA5\HelloWorld2\obj\Debug\net7.0\HelloWorld2.csproj.CoreCompileInputs.cache
+C:\Users\hogue\source\repos\Technical Assignment 2\Technical Assignment 3\TA4\TA5\HelloWorld2\obj\Debug\net7.0\HelloWorld2.dll
+C:\Users\hogue\source\repos\Technical Assignment 2\Technical Assignment 3\TA4\TA5\HelloWorld2\obj\Debug\net7.0\refint\HelloWorld2.dll
+C:\Users\hogue\source\repos\Technical Assignment 2\Technical Assignment 3\TA4\TA5\HelloWorld2\obj\Debug\net7.0\HelloWorld2.pdb
+C:\Users\hogue\source\repos\Technical Assignment 2\Technical Assignment 3\TA4\TA5\HelloWorld2\obj\Debug\net7.0\HelloWorld2.genruntimeconfig.cache
+C:\Users\hogue\source\repos\Technical Assignment 2\Technical Assignment 3\TA4\TA5\HelloWorld2\obj\Debug\net7.0\ref\HelloWorld2.dll

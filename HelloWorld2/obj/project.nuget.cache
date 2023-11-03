@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6pFhS0sTtJiDBK5iIg90LIi4AEELP5kqsAw/NhQKDql+NOyByr6Y/UMvquq0qHCJyLPh+PGV9AlAUsKGBIOnmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hogue\\source\\repos\\Technical Assignment 2\\Technical Assignment 3\\TA4\\TA5\\HelloWorld2\\HelloWorld2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hogue\\.nuget\\packages\\microsoft.visualbasic\\10.3.0\\microsoft.visualbasic.10.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
